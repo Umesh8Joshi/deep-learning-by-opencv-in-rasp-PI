@@ -2,7 +2,7 @@
 	Setup file for project. All the dependencies of python libraries are imported here. with shell script installing
 	all the dependencies by using pip (python package installer)
 """
-#Author : Karan, Nachiket, Hardik
+#Author : Umesh8Joshi
 
 """
 	python version : 3.6.3
